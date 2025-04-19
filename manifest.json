@@ -3,7 +3,7 @@
   "name": "YouTube Auto Timestamp URL",
   "version": "1.0",
   "description": "Updates YouTube URL with current video time to make bookmarking easier.",
-  "permissions": ["scripting", "activeTab"],
+  "permissions": [],
   "host_permissions": ["https://www.youtube.com/watch*"],
   "background": {
     "service_worker": "background.js"
