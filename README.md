@@ -2,6 +2,12 @@
 
 A minimal Chrome extension that updates the current YouTube video's URL with the most recently watched timestamp. Useful for bookmarking videos and resuming playback without relying on YouTube's watch history.
 
+## Installing
+
+This extension is not published to any store (e.g. the Chrome Web Store).
+
+To install, download this repository as a zip, then go to `chrome://extensions/` > `Load Unpacked` > Select the downloaded zip
+
 ## Features
 
 - Automatically appends or updates the `t=` parameter in the URL as the video plays.
